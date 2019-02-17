@@ -4,12 +4,10 @@ Soft red = #FBCDBF
 */
 /* Default style for all body*/
 body{
-
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
     line-height: 1.7;
-  margin-left: auto;
-  margin-right: auto;
+    margin: 0 auto;
 }
 
 h1{
@@ -55,15 +53,12 @@ img{
     border-radius: 50%;
 }
 section{
-
     padding-top: 100px;
     padding-bottom: 170px;
     width: 720px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
  text-align: center;
 }
-
 .cover-image {
  background-image: url('https://s1.it.atcdn.net/wp-content/uploads/2016/09/Waterton-Lakes-National-Park-view-from-Bears-Hump-by-iStock_81098425.jpg');
    background-color: #cccccc;
@@ -77,9 +72,9 @@ section{
 .cover-text{
   text-align: bottom;
   position: absolute;
-  top: 30%;
+  top: 50%;
   left: 25%;
-  transform: translate(-25%, 40%);
+  transform: translate(-25%, 30%);
   color: white;
 }
 
@@ -90,5 +85,5 @@ section{
 .grid{
   display: grid;
   grid-template: 25% 25% 25% 25%/ 60% 60% 60% ;
- transform: translate(-38%, -35%);
+ transform: translate(-38%, -25%);
 }
