@@ -8,8 +8,7 @@ body{
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
     line-height: 1.7;
-    margin: auto;
-  transform: translate(-%, -25%)
+ margin: 0px auto !important;
 }
 
 h1{
