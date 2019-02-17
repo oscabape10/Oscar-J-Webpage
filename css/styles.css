@@ -7,7 +7,7 @@ body{
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
     line-height: 1.7;
-    margin: 0 auto;
+    margin: 0;
 }
 
 h1{
@@ -56,7 +56,8 @@ section{
     padding-top: 100px;
     padding-bottom: 170px;
     width: 720px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
  text-align: center;
 }
 .cover-image {
@@ -66,15 +67,15 @@ section{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 0 auto;
+  position: relative;
 }
 
 .cover-text{
-  text-align: bottom;
+  text-align: left;
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(-25%, 30%);
+  transform: translate(-25%, -30%);
   color: white;
 }
 
