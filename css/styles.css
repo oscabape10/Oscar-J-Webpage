@@ -8,12 +8,7 @@ body{
     font-size: 22px;
     line-height: 1.7;
     margin: 0 auto;
-    padding-top: 100px;
-    padding-bottom: 170px;
-    width: 720px;
-    text-align: center;
 }
-
 
 h1{
     font-size: 90px;
@@ -57,7 +52,13 @@ img{
     width: 150px;
     border-radius: 50%;
 }
-
+section{
+    padding-top: 100px;
+    padding-bottom: 170px;
+    width: 720px;
+    margin: 0 auto;
+ text-align: center;
+}
 .cover-image {
  background-image: url('https://s1.it.atcdn.net/wp-content/uploads/2016/09/Waterton-Lakes-National-Park-view-from-Bears-Hump-by-iStock_81098425.jpg');
    background-color: #cccccc;
@@ -69,11 +70,11 @@ img{
 }
 
 .cover-text{
-  text-align: left;
+  text-align: bottom;
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(-25%, -30%);
+  transform: translate(-25%, 30%);
   color: white;
 }
 
@@ -86,5 +87,3 @@ img{
   grid-template: 25% 25% 25% 25%/ 60% 60% 60% ;
  transform: translate(-38%, -25%);
 }
-
-
