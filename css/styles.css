@@ -56,8 +56,7 @@ section{
     padding-top: 100px;
     padding-bottom: 170px;
     width: 720px;
-    margin-left: 300px;
-    margin-right: 300px;
+   margin: auto;
  text-align: center;
 }
 .cover-image {
