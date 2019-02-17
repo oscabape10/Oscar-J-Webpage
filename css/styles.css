@@ -2,6 +2,13 @@
 Purple = #882064
 Soft red = #FBCDBF
 */
+
+#page{
+     margin-left:auto;
+  margin-right:auto;
+  width:960px;
+    }
+
 /* Default style for all body*/
 body{
     font-family: 'Dosis', sans-serif;
