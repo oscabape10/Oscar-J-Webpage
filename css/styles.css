@@ -38,7 +38,6 @@ a:hover{
 a.tag2{
     font-size: 18px;
     font-weight: bold;
-    text-decoration: none;
     border: 4px solid;
     padding:  15px 65px;
     margin-top: 35px;
@@ -60,6 +59,7 @@ img{
     border-radius: 50%;
 }
 section{
+
     padding-top: 100px;
     padding-bottom: 170px;
     width: 720px;
@@ -93,6 +93,7 @@ section{
 
 .grid{
   display: grid;
-  grid-template: 45% 45% 45% 45%/ 50% 50% 50% ;
- transform: translate(-38%, -25%);
+  grid-template: 50% 50% 50% 50%/ 50% 50%;
+  text-align: center;
+  padding-bottom: 100px;
 }
