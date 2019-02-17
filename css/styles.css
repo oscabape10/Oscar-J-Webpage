@@ -1,92 +1,89 @@
-/*
-Purple = #882064
-Soft red = #FBCDBF
-*/
-/* Default style for all body*/
-body{
-    font-family: 'Dosis', sans-serif;
-    font-size: 22px;
-    line-height: 1.7;
-    margin: 0 auto;
-}
+<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+    <meta charset="UTF-8">
+  <meta name=”viewport” content=”width=device-width, initial-scale=1″>
+    <title>Oscar J Abarca Pena</title>
+    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
 
-h1{
-    font-size: 90px;
-    line-height: 1.3;
-}
+  </head>
 
+    <body>
 
-h2{
-    font-size: 42px;
-}
+    <header>
 
-a{
-  color:white;
-}
+       <div class="cover-image">
+        
+  <div class="cover-text">
+    
+ <h1 id="back to top" >Fullstack developer. <br>Ruby on Rails.
+    </h1>
 
-a:hover{
-  background-color:#ccccb3;
-}
+       <a  href="#I'm Oscar">About.</a>
+    <a href="#Skills">Skills</a> 
 
-a.tag2{
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    border: 4px solid;
-    padding:  15px 65px;
-    margin-top: 35px;
-    display: inline-block;
-  color: #882064;
-}
+</div>
+    </div>
 
-a.tag3{
-  color:#882064;
-  padding:  15px 65px;
-}
+ </header>
 
-h2,{
-    color: #882064;
-}
+    
+ <img id="I'm Oscar" src="images/profile2.jpg" alt="Oscar profile pict">
+      
+ <h2 >
+   I'm Oscar
+    </h2>
+     
+   <p>
+ I am a web developer with vast knowledge in different front end and back end languages, responsive frameworks, databases and best code practices. my objective is simple be the best web developer that I can be. I am dedicated to perfected my craft by learning from more season developer, remaining humble and continously making strides to learn all that I can about development. While having spending most of my career working as Financial Analyst I believe that my understanding of prolem solving and complex anlysis are also skills that haave an will also continue to contribute to my over all success as a developer.
+  </p>
+    
+     <p>
+   I love working with new and exciting people. Please get in touch so we can talk about your next great project.
+     </p>
+  
+     <h2 id="Skills">
+      Skills
+    </h2>
+   
+    <div class="grid">
+      <div 
+           class= "language">
+        <strong> Front-end languages:</strong> HTML, CSS.
+      </div>
+      <div class= "framework">
+        <strong>Frameworks:</strong> Ruby on rails, bootstrap
+      </div>
+      
+      <div class="database">
+        <strong>Databases:</strong> MySQL,PostgreSQL,Mongo
+      </div>
+      <div class="tools">
+        <strong>Tools:</strong> Visual Studios, Atom, Sublime Text.
+      </div>
+      
+      <div class= "TP">
+        <strong>Task & project management:</strong> Bitbucket, Git.</div>
 
-img{
-    width: 150px;
-    border-radius: 50%;
-}
-
-section{
-    padding-top: 100px;
-    padding-bottom: 170px;
-    width: 720px;
-    margin: 0 auto;
- text-align: center;
-}
-
-.cover-image {
- background-image: url('https://s1.it.atcdn.net/wp-content/uploads/2016/09/Waterton-Lakes-National-Park-view-from-Bears-Hump-by-iStock_81098425.jpg');
-   background-color: #cccccc;
-  height:1000px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0 auto;
-}
-
-.cover-text{
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 25%;
-  transform: translate(-25%, -30%);
-  color: white;
-}
-
-.emailme{
-  text-align: center;
-}
-
-.grid{
-  display: grid;
-  grid-template: 25% 25% 25% 25%/ 60% 60% 60% ;
- transform: translate(-38%, -25%);
-}
+         <div class="other">
+        <strong>Other:</strong> Responsive design, Front-end testing.
+      </div>
+      
+      <div class="method">
+        <strong>Methodologies:</strong> Agile.
+      </div>
+ <div class="server"> <strong>Servers:</strong>  . </div>   
+    </div>
+    <idv>  
+      <a class="tag3" href="#back to top">Back to top</a> 
+      </div>
+  
+    <div>
+        <a id="tag2" href="mailto:oscabape10@yahoo.co.uk"class="tag2"> Email me! </a> 
+    </div>
+  
+</body>
+</html>
 
