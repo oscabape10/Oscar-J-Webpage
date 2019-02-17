@@ -8,8 +8,6 @@ body{
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
     line-height: 1.7;
-    width:1000px;
-    position: relative;
 }
 
 h1{
@@ -57,7 +55,7 @@ img{
 section{
     padding-top: 100px;
     padding-bottom: 170px;
-    width: 720px;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
  text-align: center;
