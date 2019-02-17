@@ -1,3 +1,4 @@
+
 /*
 Purple = #882064
 Soft red = #FBCDBF
@@ -5,9 +6,9 @@ Soft red = #FBCDBF
 /* Default style for all body*/
 body{
     font-family: 'Dosis', sans-serif;
-    font-size: 22px;
+    font-size: 25px;
     line-height: 1.7;
-    margin: 0;
+    margin: auto;
   display: center;
   
 }
@@ -57,9 +58,8 @@ img{
 section{
     padding-top: 100px;
     padding-bottom: 170px;
-    width: 620px;
-    margin-left: auto;
-    margin-right: auto;
+    width: 720px;
+    margin:auto;
  text-align: center;
 }
 .cover-image {
@@ -76,7 +76,6 @@ section{
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(-25%, -30%);
   color: white;
 }
 
