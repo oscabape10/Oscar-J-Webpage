@@ -93,6 +93,6 @@ section{
 
 .grid{
   display: grid;
-  grid-template: 25% 25% 25% 25%/ 50% 50% 50% ;
+  grid-template: 45% 45% 45% 45%/ 50% 50% 50% ;
  transform: translate(-38%, -25%);
 }
