@@ -3,18 +3,14 @@ Purple = #882064
 Soft red = #FBCDBF
 */
 
-#page{
-     margin-left:auto;
-  margin-right:auto;
-  width:960px;
-    }
-
 /* Default style for all body*/
 body{
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
     line-height: 1.7;
-    margin: auto;
+       margin-left:auto;
+  margin-right:auto;
+  width:960px;
     
 }
 
