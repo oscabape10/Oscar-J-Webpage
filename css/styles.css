@@ -1,3 +1,9 @@
+/*
+Purple = #882064
+Soft red = #FBCDBF
+*/
+/* Default style for all body*/
+
 html{
   margin-right: 0 auto;
   margin-left: 0 auto;
@@ -69,6 +75,7 @@ section{
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  transform: translate(0%, -25%);
 }
 
 .cover-text{
