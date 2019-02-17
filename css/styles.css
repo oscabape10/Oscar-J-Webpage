@@ -1,8 +1,9 @@
-/*
-Purple = #882064
-Soft red = #FBCDBF
-*/
-/* Default style for all body*/
+html{
+  margin-right: 0 auto;
+  margin-left: 0 auto;
+  
+}
+
 body{
     font-family: 'Dosis', sans-serif;
     font-size: 22px;
@@ -88,3 +89,4 @@ section{
   grid-template: 25% 25% 25% 25%/ 60% 60% 60% ;
  transform: translate(-38%, -25%);
 }
+
