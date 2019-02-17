@@ -61,13 +61,9 @@ section{
  text-align: center;
 }
 
-[class*="col-"] {
-  width: 100%;
-
 .cover-image {
  background-image: url('https://s1.it.atcdn.net/wp-content/uploads/2016/09/Waterton-Lakes-National-Park-view-from-Bears-Hump-by-iStock_81098425.jpg');
   height:1000px;
-    width:100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
