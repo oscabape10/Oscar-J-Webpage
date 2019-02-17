@@ -1,4 +1,3 @@
-
 /*
 Purple = #882064
 Soft red = #FBCDBF
@@ -58,7 +57,7 @@ img{
 section{
     padding-top: 100px;
     padding-bottom: 170px;
-    width: 650px;
+    width: 720px;
     margin-left: auto;
     margin-right: auto;
  text-align: center;
@@ -90,4 +89,5 @@ section{
   grid-template: 25% 25% 25% 25%/ 60% 60% 60% ;
  transform: translate(-38%, -25%);
 }
+
 
