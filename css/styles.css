@@ -33,7 +33,7 @@ a{
 }
 
 a:hover{
-  background-color:#ccccb3;
+  background-color:#C5D4D5;
 }
 
 a.tag2{
@@ -47,7 +47,7 @@ a.tag2{
 }
 
 a.tag3{
-  color:#093E8D;
+  color: black;
   padding:  15px 65px;
   font-size: 20px;
 }
@@ -68,7 +68,9 @@ section{
     margin-left: auto;
     margin-right: auto;
  text-align: center;
+
 }
+
 .cover-image {
  background-image: url('https://s1.it.atcdn.net/wp-content/uploads/2016/09/Waterton-Lakes-National-Park-view-from-Bears-Hump-by-iStock_81098425.jpg');
    background-color: #cccccc;
@@ -99,3 +101,4 @@ section{
   text-align: center;
   padding-bottom: 100px;
 }
+
