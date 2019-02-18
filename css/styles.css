@@ -29,6 +29,7 @@ h2{
 
 a{
   color:white;
+  font-size: 30px;
 }
 
 a:hover{
@@ -36,7 +37,7 @@ a:hover{
 }
 
 a.tag2{
-    font-size: 18px;
+    font-size: 28px;
     font-weight: bold;
     border: 4px solid;
     padding:  15px 65px;
@@ -48,6 +49,7 @@ a.tag2{
 a.tag3{
   color:#882064;
   padding:  15px 65px;
+  font-size: 20px;
 }
 
 h2,{
@@ -97,3 +99,4 @@ section{
   text-align: center;
   padding-bottom: 100px;
 }
+
