@@ -103,22 +103,22 @@ section{
 }
 
 .twitter{
-  width: 3px;
-    border-radius: 3%;
+  width: 20px;
+    border-radius: 10%;
 }
 
 .facebook{
-  width: 30px;
-    border-radius: 20%;
+  width: 20px;
+    border-radius: 10%;
 }
 
 .Linkedin{
-  width: 30px;
-    border-radius: 20%;
+  width: 20px;
+    border-radius: 10%;
 }
 
 .github{
-  width: 30px;
-    border-radius: 20%;
+  width: 20px;
+    border-radius: 10%;
 }
 
