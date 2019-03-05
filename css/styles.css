@@ -102,3 +102,23 @@ section{
   padding-bottom: 100px;
 }
 
+.twitter{
+  width: 30px;
+    border-radius: 25%;
+}
+
+.facebook{
+  width: 30px;
+    border-radius: 20%;
+}
+
+.Linkedin{
+  width: 30px;
+    border-radius: 20%;
+}
+
+.github{
+  width: 30px;
+    border-radius: 20%;
+}
+
