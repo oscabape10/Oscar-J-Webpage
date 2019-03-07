@@ -22,6 +22,18 @@ h1{
     line-height: 1.3;
 }
 
+.about{
+  padding-right: 10px;
+}
+
+.skills{
+  Padding-right: 10px;
+}
+
+.spanish{
+  padding-right: 5px;
+}
+
 
 h2{
     font-size: 42px;
@@ -122,3 +134,41 @@ section{
     border-radius: 25%;
 }
 
+/* Dropdwon button Style */
+
+.dropbtn {
+  background-color: transparent;
+  color: white;
+  padding: none;
+  font-size: 26px;
+  border: none;
+  text-decoration: underline;
+}
+
+.dropdown {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: ;
+  box-shadow: ;
+  z-index: ;
+}
+
+.dropdown-content a {
+  color: #0D47A1;
+  font-size: 20px;
+  padding: 6px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn:focus {background-color: #C5D4D5;}
