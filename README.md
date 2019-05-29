@@ -1,3 +1,7 @@
+# Frontend Mentor - Ping coming soon page
+
+![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
+
 # oscarswebpage.
 #This is a read only webpage for presentattion purposes only.
 #Personal web page. You will find information about my devolpment, skills, tools I use for create and develop web applications. Implementation of HTML and CSS codes only.
